@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Almeyda Pachas"
+    given-names: "Luis Enrique"
+    orcid: "https://orcid.org/0000-0003-3170-7044"
+title: "Privacy-Preserving Federated Semantic Validation: Compiling ISO 8000 Data Quality Rules into Zero-PII Edge Gateways"
+license: "Apache-2.0"
